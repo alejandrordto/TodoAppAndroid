@@ -1,4 +1,6 @@
 package escuelaing.edu.co.todoapp;
 
-public class LoginActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class LoginActivity extends AppCompatActivity {
 }
